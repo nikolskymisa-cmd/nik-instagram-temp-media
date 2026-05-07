@@ -6,13 +6,16 @@
   "thread_id": 3,
   "media_group_id": "14225556244997890",
   "message_ids": [
-    "6533"
+    "6533",
+    "6534"
   ],
   "seen_unique_ids": [
+    "AgADGZYAAlxOiEs",
     "AgADGpYAAlxOiEs"
   ],
   "images": [
-    "photo_01.png"
+    "photo_01.png",
+    "photo_02.png"
   ],
-  "updated_at": "2026-05-07T23:05:31"
+  "updated_at": "2026-05-07T23:05:37"
 }
