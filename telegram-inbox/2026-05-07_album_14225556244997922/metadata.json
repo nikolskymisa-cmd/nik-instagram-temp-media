@@ -1,0 +1,18 @@
+{
+  "id": "2026-05-07_album_14225556244997922",
+  "source": "render_telegram_receiver",
+  "status": "ready",
+  "chat_id": -1002598267599,
+  "thread_id": 3,
+  "media_group_id": "14225556244997922",
+  "message_ids": [
+    "6567"
+  ],
+  "seen_unique_ids": [
+    "AgADPpYAAlxOiEs"
+  ],
+  "images": [
+    "photo_01.png"
+  ],
+  "updated_at": "2026-05-07T23:10:32"
+}
