@@ -7,15 +7,18 @@
   "media_group_id": "14225556244997834",
   "message_ids": [
     "6484",
-    "6485"
+    "6485",
+    "6486"
   ],
   "seen_unique_ids": [
     "AgAD5ZUAAlxOiEs",
-    "AgAD5pUAAlxOiEs"
+    "AgAD5pUAAlxOiEs",
+    "AgAD6ZUAAlxOiEs"
   ],
   "images": [
     "photo_01.png",
-    "photo_02.png"
+    "photo_02.png",
+    "photo_03.png"
   ],
-  "updated_at": "2026-05-07T22:57:25"
+  "updated_at": "2026-05-07T22:57:34"
 }
